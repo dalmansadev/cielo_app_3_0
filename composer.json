@@ -4,6 +4,7 @@
       "Cielo": "src"
     }
   },
+  "minimum-stability": "dev",
   "name": "dalmansadev/cielo_app_3_0",
   "description": "Integração com a API 3.0 da Cielo",
   "license": "MIT",
